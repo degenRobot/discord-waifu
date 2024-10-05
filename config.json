@@ -1,0 +1,9 @@
+{
+    "nExamples": 5,
+    "openRouterModel": "meta-llama/llama-3.1-8b-instruct:free",
+    "togetherModel": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+    "togetherUrl": "https://api.together.xyz/v1",
+    "openRouterUrl": "https://openrouter.ai/api/v1",
+    "max_history_length": 10000,
+    "Name": "rizu Chan"
+}
